@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 沙彌羅經
+#+DATE: 2015-08-30 20:19:47.083943
+#+PROPERTY: JUAN 0
