@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:46.900230
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:37
 #+TITLE: 沙彌羅經
 #+PROPERTY: CBETA_ID T17n0750
 #+PROPERTY: ID KR6i0445
