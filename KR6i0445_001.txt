@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:46.900230
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:37
 #+TITLE: 沙彌羅經
 #+PROPERTY: CBETA_ID T17n0750
 #+PROPERTY: ID KR6i0445
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 750
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0445_T_000-0572b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0445_T_001-0572b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.750¶
-
- 《沙彌羅經》¶
+No. 750¶
+《沙彌羅經》¶
 ¶
 失譯附三秦錄¶
 
